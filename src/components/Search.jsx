@@ -1,4 +1,4 @@
-import SearchIcon from '../../images/icons8-search-64 2.svg'
+import SearchIcon from '../images/icons8-search-64 2.svg'
 
 export function Search(){
     return(
